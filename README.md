@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coldmorning)](https://github.com/anuraghazra/github-readme-stats)  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coldmorning)](https://github.com/anuraghazra/github-readme-stats&theme=maroongold)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coldmorning&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
