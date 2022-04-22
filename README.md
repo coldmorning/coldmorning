@@ -21,5 +21,5 @@ I'm Yu-Liang, an Backend Engineer, and love to learning  principle of web skill
 | **Storage** | Redis, PostgreSQL, MariaDB(MySQL), Oracle |
 | **DevOps** | Azure, Docker-compose, K8S, Ansible-playbook, Jenkins, Circle CI, Nexus, Slack |
 | **Security** | XSS, CSRF, SQL Injection, SSRF |
-| **Frontend** | jQuery, HTML5, CSS, Bootstrap, Figma, Draw.io|
+| **Frontend** | JQuery, HTML5, CSS, Bootstrap, Figma, Draw.io|
 | **Others** | DRI Skill, Slack, WSL2, GitFlow |
