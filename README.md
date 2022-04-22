@@ -1,18 +1,17 @@
-### Hi there 👋
+### Hi there 👋 
 
-I'm Yu-Liang, an Backend Engineer, and love to learning  principle of web skill.
+I'm Yu-Liang, an Backend Engineer, and love to learning  principle of web skill
 
-[![Github](https://img.shields.io/github/followers/coldmorning?label=Follow&style=social)](https://github.com/RainrainWu)
+- LinkedIn: https://www.linkedin.com/in/yu-liang-huang-639900155
 
+ [![Github](https://img.shields.io/github/followers/coldmorning?label=Follow&style=social)](https://github.com/coldmorning)
 
 <a href="https://github.com/coldmorning">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=coldmorning&show_icons=true&bg_color=30,c24222,181fc9&title_color=fff&text_color=fff&icon_color=fff" alt="coldmorning's github stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coldmorning&theme=algolia&layout=compact&exclude_repo=gitbook-docs&hide=javascript,html,jupyter%20notebook" alt="coldmorning's github top languages" />
 </a>
 
-## My Skill
-
-
+## My Skill                  
 
 | Category | Techniques & Tools |
 | - | - |
