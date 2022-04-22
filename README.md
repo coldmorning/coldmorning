@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Yu-Liang, an Backend engineer 
+I'm Yu-Liang, an Backend Engineer, and love to learning  principle of web skill.
 
 [![Github](https://img.shields.io/github/followers/coldmorning?label=Follow&style=social)](https://github.com/RainrainWu)
 
@@ -10,18 +10,17 @@ I'm Yu-Liang, an Backend engineer
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coldmorning&theme=algolia&layout=compact&exclude_repo=gitbook-docs&hide=javascript,html,jupyter%20notebook" alt="coldmorning's github top languages" />
 </a>
 
+## My Skill
 
-<!--
-**coldmorning/coldmorning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Category | Techniques & Tools |
+| - | - |
+| **Programming Language** | Java (3 years), Python (1 ~2 years), Golang (less 1 years), Javascript (1 years)  | 
+| **Web Framwrok** | Spring Boot  (1 ~ 2 years), Python Web  (less 1 years), Gin  (less 1 years)
+| **Backend** | Unit test, Stress testing (Jmeter), Multithreading, Web Crawling|
+| **Storage** | Redis, PostgreSQL, MariaDB(MySQL), Oracle |
+| **DevOps** | Azure, Docker-compose, K8S, Ansible-playbook, Jenkins, Circle CI, Nexus, Slack |
+| **Security** | XSS, CSRF, SQL Injection, SSRF |
+| **Frontend** | jQuery, HTML5, CSS, Bootstrap, Figma, Draw.io|
+| **Others** | DRI Skill, Slack, WSL2, GitFlow |
