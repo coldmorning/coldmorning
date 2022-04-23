@@ -15,8 +15,8 @@ I'm Yu-Liang, an Backend Engineer, and love to learning  principle of web skill
 
 | Category | Techniques & Tools |
 | - | - |
-| **Programming Language** | Java (3 years), Python (1 ~2 years), Golang (less 1 years), Javascript (1 years)  | 
-| **Web Framwrok** | Spring Boot  (1 ~ 2 years), Python Web  (less 1 years), Gin  (less 1 years)
+| **Programming Language** | Java, Python, Golang, Javascript  | 
+| **Web Framwrok** | Spring Boot, Python Web, Gin
 | **Backend** | Unit test, Stress testing (Jmeter), Multithreading, Web Crawling|
 | **Storage** | Redis, PostgreSQL, MariaDB(MySQL), Oracle |
 | **DevOps** | Azure, Docker-compose, K8S, Ansible-playbook, Jenkins, Circle CI, Nexus, Slack |
